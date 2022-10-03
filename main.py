@@ -1,7 +1,4 @@
 ### Main file
-print("Hello")
-print("Hello again")
-
 ### I'll do my parts of the story and you do your's
 #####################################################
 
@@ -52,6 +49,30 @@ print("In a robotic voice the computer exclaimed select door 1, 2 or 3. A loud o
 choice2 = input("(Go to door1 door2 or door3)")
 if choice2 == "door1":
     print("")
+    print("Door1) At the end of the corridor was an opening in which there appeared to be some sort of metal behemoth,",
+          "in which he could just about make out in the dimly lit entrance. As he entered the arena, a cylindrical metal ",
+          "chamber, the exit he had just left closed behind him. He was sealed in with this iron beast. Although inactive ",
+          "it was still a terrifying sight to see such a thing. In a flash, lights turned on illuminating the arena in a ",
+          "yellow glow, and maybe 200m away was another contender on either side of him.")
+    print("")
+    print("“SURVIVE FOR 60 SECONDS IN ORDER TO PASS… 10, 9, 8, 7, 6…”")
+    print("")
+    print("A metal whirring began as neon bulbs activated all around the giant. Its hinges creaked as it began to stand, ",
+          "dust and debris falling off its body.")
+    print("“5, 4…”")
+    print("Its eyes shone a bright red as its head swiveled around glaring at every poor soul trapped with it.")
+    print("“3, 2, 1..”")
+    print("It charges towards its first target, fortunately giving Will time to come to your senses and dart for the opposite end.",
+          "The candidate it had gone for was not so fortunate, frozen still as the beast hurls its fist - crashing down upon where ",
+          "they once stood.")
+    print("“45 seconds”")    
+    print("As if it was some instinctive animal, it next charges at Will, although he would not succumb to fear and darts as fast as ,"
+          "he can. The wind howls as its fist tries to end him, barely avoiding Will as he sprints away. Clearly distressed by its ",
+          "failure it lets out a screech.")
+    print("“30 seconds”")
+    print("It seems to lose interest in Will momentarily, as the other candidate was banging on the metal door in which he had come from. ",
+          "Not a moment later, it brings its massive foot the size of a car crashing down upon him. You were the last one standing…")
+
 ###########################################    
 if choice2 == "door2":
     print("")
@@ -69,6 +90,17 @@ if choice2 == "door2":
 ##############################################
 # door 3 ( your part )
 if choice2 == "door3":
+    print("Will entered and was immediately punctured by a dart firing directly into his back, and he immediately felt a great burning pain as ",
+          "though his skin was on fire. In front, an extremely deep pool was made apparent to him, the bottom appearing so far away he could barely ",
+          "make out that there was a metal box at the bottom of the pool..")
     print("")
+    print("“FOR THIS TASK YOU MUST SWIM TO THE BOTTOM, AND UNLOCK THE SAFE, THE SAFE IS LOCKED A SET OF LOGIC GATES IN WHICH MUST BE ALIGNED CORRECTLY ",
+          "TO UNLOCK THE ANTIDOTE TO THE DART YOU WERE SHOT WITH.”")
+    print("")
+    print("He looks down into the water barely lit up with equally spaced bulbs lining the side of the pool.")
+    print("Without hesitation, he dives right into the pool and swims as fast as he physically could downwards. The pressure became greater and greater ",
+          "and Will found it more and more of a struggle until finally he reached the bottom. He fought to remain at the bottom and looked at the logic ",
+          "gate on the side of the metal box. It had 2 inputs (A and B) which could be set to 0 or 1, A was followed by a NOT gate and then both A and B ",
+          "met at an AND gate. Will started to feel his chest tighten as he fought to hold his breath. Will fumbles and quickly begins setting the inputs.")
 
 
